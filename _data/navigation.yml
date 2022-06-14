@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Research"
+    url: /research/
         
-  - title: "Blog"
-    url: /blog/
+  - title: "Gallery"
+    url: /gallery/
     
   - title: "CV"
     url: /cv/
