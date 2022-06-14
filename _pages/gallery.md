@@ -12,7 +12,7 @@ Here are some pictures of the random processes that I'm interested in. Feel free
 
 ## Marchal's tree growth and stable trees
 
-Marchal's tree growth is a tree-valued Markov chain. Once rescaled properly, the trees converge as metric spaces. The limiting objects are called stable trees. Here are some simulations of Marchal's tree growth after 25000 steps for different values of alpha, they approximate stable trees. Here, alpha takes values in 2, 1.9, 1.6 and 1.4. In the case alpha = 2, the stable tree is also called the Brownian continuum random tree (BCRT). 
+Marchal's tree growth is a tree-valued Markov chain. Once rescaled properly, the trees converge as metric spaces. The limiting objects are called stable trees. Here are some simulations of Marchal's tree growth after 25000 steps for different values of alpha, they approximate stable trees. Here, alpha takes values in 2, 1.9, 1.6 and 1.4. When the parameter alpha is lowered the degree of some vertices in the tree becomes bigger and bigger leading to visual accumulation points. In the case alpha = 2, the stable tree is also called the Brownian continuum random tree (BCRT). 
 
 <table>
 <tr> 
@@ -29,7 +29,9 @@ You can download vectorised versions here: [1.4 stable tree](/files/stable_14.pd
 
 ## Growth on trees
 
-Coming soon
+Here is a picture of a random particle process growing on a random Bienaymé-Galton-Watson tree.
+
+<img src="/files/growth_on_trees_1.png"  /> 
 
 ## Angle dependent Branching Brownian Motion
 
