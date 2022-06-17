@@ -29,13 +29,15 @@ You can download vectorised versions here: [1.4 stable tree](/files/stable_14.pd
 
 ## Growth on trees
 
-Here is a picture of a random particle process growing on a random Bienaymé-Galton-Watson tree.
+Here is a picture of a random particle process growing on a random Bienaymé-Galton-Watson tree. A characteristic property of this process is that it has a frontier of particles, i.e. particles which are next to unoccupied sites. In the picture, these particles are coloured in light blue. This frontier moves outward with time.
 
 <img src="/files/growth_on_trees_1.png"  /> 
 
+And here are some gifs of the dynamics, emphasising the frontier - movies 3 and 4 are different from movies 1 and 2: [movie 1](/files/growth_on_trees_movie_1.gif), [movie 2](/files/growth_on_trees_movie_2.gif), [movie 3](/files/growth_on_trees_movie_3.gif), [movie 4](/files/growth_on_trees_movie_4.gif). (large files, ~20MB each)
+
 ## Angle dependent Branching Brownian Motion
 
-Coming soon
+In this model we consider a branching Brownian motion (BBM) in the 2-dimensional plane where the branching rate depends on the angle towards the origin. Here are two simulations of this process: [movie 1](/files/aBBM_movie_1.gif), [movie 2](/files/aBBM_movie_2.gif).
 
 ## Dynamic Widom-Rowlinson model
 
