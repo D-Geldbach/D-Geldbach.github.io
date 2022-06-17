@@ -25,7 +25,7 @@ Marchal's tree growth is a tree-valued Markov chain. Once rescaled properly, the
 </tr> 
 </table>
 
-You can download vectorised versions here: [1.4 stable tree](/files/stable_14.pdf), [1.6 stable tree](/files/stable_16.pdf), [1.9 stable tree](/files/stable_19.pdf), [BCRT](/files/stable_2.pdf).
+You can download vectorised versions here: [1.4 stable tree](/files/stable_14.pdf), [1.6 stable tree](/files/stable_16.pdf), [1.9 stable tree](/files/stable_19.pdf), [BCRT](/files/stable_2.pdf). Also, [here is a GIF](/files/marchal.gif) of a breadth first search of one of those trees, as seen on the main page.
 
 ## Growth on trees
 
