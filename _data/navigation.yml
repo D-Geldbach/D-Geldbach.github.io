@@ -2,11 +2,11 @@
 main:
         
   - title: "Gallery"
-    url: /gallery/
+	url: /gallery/
 	
   - title: "Research"
-    url: /research/
+	url: /research/
     
   - title: "CV"
-    url: /cv/
+	url: /cv/
     
