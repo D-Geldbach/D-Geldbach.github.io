@@ -1,0 +1,10 @@
+# main links links
+main:
+  - title: "Gallery"
+    url: /gallery/
+    
+  - title: "Research"
+    url: /research/
+
+  - title: "CV"
+    url: /cv/
