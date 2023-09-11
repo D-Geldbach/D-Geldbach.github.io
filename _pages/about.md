@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**I am** a PhD (DPhil) student at the University of Oxford. There, I am based in the Department of Statistics and supervised by Julien Berestycki and Matthias Winkel. 
+**I am** a PhD (DPhil) student at the University of Oxford. There, I am based in the Department of Statistics and supervised by Julien Berestycki and Matthias Winkel. As of 2023, I am also a stipendiary lecturer at <a href="https://www.lmh.ox.ac.uk">Lady Margaret Hall</a>. 
 
 **My field of research** are stochastic processes including discrete and continuous aspects. Currently, I am pursuing projects involving branching processes and random tree growth. The gif below illustrates a tree grown by Marchal's tree growth algorithm - it grows slightly differently than in the animation though. This particular tree approximates the alpha-stable tree with alpha = 1,6. Check out my [gallery](/gallery) for more pictures!
 
