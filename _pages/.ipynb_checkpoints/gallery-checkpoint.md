@@ -12,9 +12,13 @@ Here are some pictures of the random processes that I'm interested in. Feel free
 
 ## Hyperbolic BBM
 
+This is from an ongoing project on branching Brownian motion in hyperbolic space, modelled via the Poincaré disk model. Here, a single Brownian particle converges to a uniform point on the boundary. For BBM, the empirical measure converges to a random measure on the boundary. If we increase the branching rate, then this random measure becomes more spread out in an appropriate sense. In the picture, the branching rates left to right are $0.12, 0.4$ and $1$. 
+
 <img src="/files/hyperbolic_BBM.png"  /> 
 
 ## BBM with space inhomogeneous branching rate
+
+This is from the paper where we consider branching Brownian motion in two dimensions where the branching rate depends on the direction. The branching rate is maximised in the direction of the $x$-axis. In the picture, the different colours correspond to different choices of a parameter that controls how much smaller the branching is in directions other than the $x$-axis. Observe that the shape of the blob becomes less spherical for the smaller blobs where the inhomogeneity is more pronounced. 
 
 <img src="/files/space_BBM_1.png"  /> 
 
