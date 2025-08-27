@@ -16,6 +16,12 @@ This is from an ongoing project on branching Brownian motion in hyperbolic space
 
 <img src="/files/hyperbolic_BBM.png"  /> 
 
+## Simulations of climate distance
+
+This is from a project where I have helped a group of ecologists studying climate distance: for a given location on the planet, given the predicitions for climate change, how far away do you have to move to find a location that will have the same climate in the future as the initial location does now? This is one way to measure the speed (rather than the severity) of climate change. Analysing this helps to understand which areas will act as refuges for biodiversity. Here I simulate this for a mountain range adjacent to some plains, this shows that the climate distance will be lower for locations on the slope of the mountain compared to the plains. 
+
+<img src="/files/CD_surface_512.png"  /> 
+
 ## BBM with space inhomogeneous branching rate
 
 This is from the paper where we consider branching Brownian motion in two dimensions where the branching rate depends on the direction. The branching rate is maximised in the direction of the $x$-axis. In the picture, the different colours correspond to different choices of a parameter that controls how much smaller the branching is in directions other than the $x$-axis. Observe that the shape of the blob becomes less spherical for the smaller blobs where the inhomogeneity is more pronounced. 
