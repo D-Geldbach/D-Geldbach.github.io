@@ -13,7 +13,7 @@ author_profile: true
 
 *Abstract:* We consider a branching Brownian motion in $\mathbb{R}^2$ in which particles independently diffuse as standard Brownian motions and branch at an inhomogeneous rate $b(\theta)$ which depends only on the angle $\theta$ of the particle. We assume that $b$ is maximal when $\theta=0$, which is the preferred direction for breeding. 
 
-Furthermore we assume that $b(\theta ) = 1 - \beta \abs{\theta }^\alpha + O(\theta ^2)$, as $\theta \to 0$, for $\alpha \in (2/3,2)$ and $\beta>0$. We show that if $M_t$ is the maximum distance to the origin at time $t$, then $(M_t-m(t))_{t\geq 1}$ is tight where
+Furthermore we assume that $b(\theta ) = 1 - \beta \vert\theta \vert^\alpha + O(\theta ^2)$, as $\theta \to 0$, for $\alpha \in (2/3,2)$ and $\beta>0$. We show that if $M_t$ is the maximum distance to the origin at time $t$, then $(M_t-m(t))_{t\geq 1}$ is tight where
 $$m(t)= \sqrt{2} t - \frac{\vartheta_1}{\sqrt{2}} t^{(2-\alpha)/(2+\alpha)} - \left(\frac{3}{2\sqrt{2}} - \frac{\alpha}{2\sqrt{2}(2+\alpha)} \right)\log(t), $$
 and $\vartheta_1$ is explicit in terms of the first eigenvalue of a certain operator.
 
