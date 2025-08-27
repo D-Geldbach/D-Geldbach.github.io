@@ -8,7 +8,26 @@ redirect_from:
   - /gallery.html
 ---
 
-Here are some pictures of the random processes that I'm interested in. Feel free to use any of them but please give credit. This page is currently being updated.
+Here are some pictures of the random processes that I'm interested in. Feel free to use any of them but please give credit. 
+
+## Hyperbolic BBM
+
+<img src="/files/hyperbolic_BBM.png"  /> 
+
+## BBM with space inhomogeneous branching rate
+
+<img src="/files/space_BBM_1.png"  /> 
+
+Here are some realisations in different colours [sibBBM_2](/files/space_BBM_2.png) and [sibBBM_3](/files/space_BBM_3.png).
+
+## Branching random walk on random trees 
+
+Here we consider a branching random walk that takes place on a random tree. The random tree can be seen as a model for a random environment in very high dimension. As the process grows, it explores the tree. Here we plot the trace of the branching random walk.
+This is a figure from our paper here <a href="https://arxiv.org/abs/2502.07363">arXiv [2502.07363]</a>. 
+
+<img src="/files/brw_0.png"  /> 
+
+The colours illustrate the distance from the root of the tree where the branching random walk is initiated. Here are some more realisations [brw_2](/files/brw_1.png), [brw_3](/files/brw_2.png), [brw_4](/files/brw_3.png).
 
 ## Marchal's tree growth and stable trees
 
@@ -25,19 +44,7 @@ Marchal's tree growth is a tree-valued Markov chain. Once rescaled properly, the
 </tr> 
 </table>
 
-You can download vectorised versions here: [1.4 stable tree](/files/stable_14.pdf), [1.6 stable tree](/files/stable_16.pdf), [1.9 stable tree](/files/stable_19.pdf), [BCRT](/files/stable_2.pdf). Also, [here is a GIF](/files/marchal.gif) of a breadth first search of one of those trees, as seen on the main page.
-
-## Growth on trees
-
-Here is a picture of a random particle process growing on a random Bienaymé-Galton-Watson tree. A characteristic property of this process is that it has a frontier of particles, i.e. particles which are next to unoccupied sites. In the picture, these particles are coloured in light blue. This frontier moves outward with time.
-
-<img src="/files/growth_on_trees_1.png"  /> 
-
-And here are some gifs of the dynamics, emphasising the frontier - movies 3 and 4 are different from movies 1 and 2: [movie 1](/files/growth_on_trees_movie_1.gif), [movie 2](/files/growth_on_trees_movie_2.gif), [movie 3](/files/growth_on_trees_movie_3.gif), [movie 4](/files/growth_on_trees_movie_4.gif). (large files, ~20MB each)
-
-## Angle dependent Branching Brownian Motion
-
-In this model we consider a branching Brownian motion (BBM) in the 2-dimensional plane where the branching rate depends on the angle towards the origin. Here are two simulations of this process: [movie 1](/files/aBBM_movie_1.gif), [movie 2](/files/aBBM_movie_2.gif).
+You can download vectorised versions here: [1.4 stable tree](/files/stable_14.pdf), [1.6 stable tree](/files/stable_16.pdf), [1.9 stable tree](/files/stable_19.pdf), [BCRT](/files/stable_2.pdf). Also, [here is a GIF](/files/marchal.gif) of a breadth first search of one of those trees.
 
 ## Dynamic Widom-Rowlinson model
 
